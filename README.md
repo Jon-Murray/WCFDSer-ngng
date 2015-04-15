@@ -1,6 +1,8 @@
 #BurpJDSer-ng
 
 
+this is not maintained here. Go look at https://github.com/nccgroup/WCFDSer-ngng please
+
 
 A Burp Extender plugin, that will make binary soap objects readable and modifiable. Based on the original work of Brian Holyfield, all hail Brian http://blog.gdssecurity.com/labs/2009/11/19/wcf-binary-soap-plug-in-for-burp.html
 
